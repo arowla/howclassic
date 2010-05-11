@@ -1,0 +1,9 @@
+===================================
+How Classic?
+===================================
+
+This project arose out of my annoyance with the local classic rock station. I couldn't figure out why I was annoyed so by it,
+since I normally like classic rock. I decided that maybe the playlist didn't vary much from night to night. This is my
+attempt to find out.
+
+It runs with a SQLite3 backend, which lives in db/top40.db
